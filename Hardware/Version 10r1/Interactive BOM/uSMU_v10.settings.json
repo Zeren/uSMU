@@ -1,0 +1,36 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "uSMU_v10",
+        "revision": "",
+        "company": "",
+        "date": "2021-05-20 02:05:27"
+    },
+    "settings": {
+        "canvaslayout": "F",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "117,61,18",
+            "Placed": "18,117,61,62,1,3,126,122,53,116,79,42,121,12,15,21,30,43,51,78,83,109,118,127,103,85,37,31,16,17,49,55,108,75,56,59,87,13,92,45,98,28,29"
+        },
+        "darkMode": false,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "darkenWhenChecked": ""
+    }
+}
